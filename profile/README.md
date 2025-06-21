@@ -2,7 +2,6 @@
   <img src="https://image.noelshack.com/fichiers/2025/25/5/1750431869-logo-madata-fonce-2.png" alt="Logo Madata" style="width: 100%; max-width: 800px; margin-bottom: 80px;" />
 </p>
 
-# MADATA
 
 **MADATA** est une plateforme SaaS tout-en-un, sécurisée et modulaire, qui digitalise la gestion d’entreprise pour les organisations africaines. Grâce à une suite intégrée et intelligente de modules métier, MADATA vous aide à automatiser vos opérations comptables, RH, commerciales, logistiques et terrain, tout en respectant les spécificités locales comme la norme SYSCOHADA.
 
