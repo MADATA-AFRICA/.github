@@ -2,8 +2,8 @@
   <img src="https://image.noelshack.com/fichiers/2025/25/5/1750431869-logo-madata-fonce-2.png" alt="Logo Madata" style="width: 100%; max-width: 800px; margin-bottom: 80px;" />
 </p>
 
+100% sécurisé et modulable. Madata est la meilleure solution de gestion intégrée tout-en-un pour votre activité. Accédez à une vaste collections de modules et soyez plus efficace et productif.
 
-**MADATA** est une plateforme SaaS tout-en-un, sécurisée et modulaire, qui digitalise la gestion d’entreprise pour les organisations africaines. Grâce à une suite intégrée et intelligente de modules métier, MADATA vous aide à automatiser vos opérations comptables, RH, commerciales, logistiques et terrain, tout en respectant les spécificités locales comme la norme SYSCOHADA.
 
 🌍 Site officiel : [madata.africa](https://madata.africa)  
 🔗 LinkedIn : [MADATA Africa](https://www.linkedin.com/company/madata-africa)
