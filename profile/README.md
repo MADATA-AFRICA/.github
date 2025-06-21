@@ -1,72 +1,50 @@
-![MADATA](./adisa-.png)
+<p align="center">
+  <img src="https://image.noelshack.com/fichiers/2025/25/5/1750431869-logo-madata-fonce-2.png" alt="Logo Madata" style="width: 100%; max-width: 800px; margin-bottom: 80px;" />
+</p>
+
+# MADATA
+
+**MADATA** est une plateforme SaaS tout-en-un, sécurisée et modulaire, qui digitalise la gestion d’entreprise pour les organisations africaines. Grâce à une suite intégrée et intelligente de modules métier, MADATA vous aide à automatiser vos opérations comptables, RH, commerciales, logistiques et terrain, tout en respectant les spécificités locales comme la norme SYSCOHADA.
+
+🌍 Site officiel : [madata.africa](https://madata.africa)  
+🔗 LinkedIn : [MADATA Africa](https://www.linkedin.com/company/madata-africa)
 
 ---
 
-<h1 align="center">🧑‍💻 Bienvenue sur le repository de MADATA</h1>
+## 🚀 Fonctionnalités principales
 
-![MADATA](./adisa.png)
+- **Comptabilité SYSCOHADA** : Tenue comptable, rapprochement bancaire, tableaux de bord financiers.
+- **Gestion de la paie** : Bulletins de salaire, CNPS/DGI, déclarations sociales.
+- **CRM et ventes** : Pipeline, devis, facturation, gestion des clients et prospects.
+- **Logistique & stock** : Réceptions, livraisons, inventaires, alertes de seuil.
+- **Gestion des livraisons** : Suivi en temps réel avec SpeedRoute.
+- **Solutions terrain** : Applications mobiles pour commerciaux, agents terrain, techniciens.
+- **Intelligence artificielle intégrée** : Suggestions automatisées, alertes intelligentes, prévisions.
 
-<h3 align="center">
-  Une plateforme intelligente 100% web de solutions connectées dans un espace de travail collaboratif.
-</h3>
+---
 
-<p align="right">
-  <img
-    src="https://komarev.com/ghpvc/?username=MADATA-AFRICA&label=Profile%20views&color=0e75b6&style=flat"
-    alt="MADATA-AFRICA"
-  />
+## 🧾 Packs et Tarifs
+
+Les détails des packs (Vendeur, Entrepreneur, TPE, PME), modules inclus et tarifs sont disponibles sur :  
+➡️ [https://madata.africa](https://madata.africa)
+
+---
+
+## 📄 Documentation
+
+La documentation utilisateur et technique complète sera bientôt disponible ici :  
+➡️ [docs.madata.africa](https://docs.madata.africa)
+
+---
+
+## 📬 Contact
+
+📧 Email : [contact@madata.africa](mailto:contact@madata.africa)  
+💬 LinkedIn : [@MADATA Africa](https://www.linkedin.com/company/madata-africa?originalSubdomain=ci)  
+🌐 Site web : [https://madata.africa](https://madata.africa)
+
+---
+
+<p align="center">
+  <img src="https://image.noelshack.com/fichiers/2025/25/5/1750432544-logo-madata-violet-claire-1.png" alt="Logo Madata" width="300" style="margin-top: 80px;" />
 </p>
-
-![MADATA](./home.webp)
-
-<br />
-
-## ⚡ NOS SERVICES
-
-![MADATA](services.png)
-
-<br />
-
-## ⚡ NOS EXPERTISES
-
-<h2 align="left" style="font-weight: bold;">
-  6 domaines d’expertise pour répondre à tous <span style="color: #584294;">vos besoins fonctionnels</span>.
-</h2>
-
-<ol>
-  <li>🧾 Finance & Comptabilité</li>
-  <li>🗓️ Projets & Logistique</li>
-  <li>🙋🏻‍♂️ Ressources Humaines</li>
-  <li>✅ Customer Success</li>
-  <li>🫱🏾‍🫲🏾 Leads Generator</li>
-  <li>🌐 Expérience client</li>
-</ol>
-
-# 1 - 🧾 Finance & Comptabilité
-<h3>Tous les outils dont vous avez besoin pour vous faire gagner du temps dans un système sans couture.</h3>
-<img src='./finance_comptabilite.png'/>
-<br>
-
-# 2 - 🗓️ Projets & Logistique
-<h3>Anticiper sur les besoins et les ressources et agir en temps réel pour établir une norme d'excellence.</h3>
-<img src='./logistique.png'/>
-<br>
-
-# 3 - 🙋🏻‍♂️ Ressources Humaines
-<h3>Lier l'opérationnel et l'expérientiel pour optimiser votre gestion des Ressources Humaines.</h3>
-<img src='./ressources.png'/>
-
-
-# 4 - ✅ Customer Success
-<h3>Automatiser les taches afin que les équipes commerciales se concentrent sur la relation clients et génèrent plus de revenus.</h3>
-<img src='./customer_success.png'/>
-
-# 5 - 🫱🏾‍🫲🏾 Leads Generator
-<h3>Générer en continu des prospects qualifiés pour nourrir la force commerciale en leads à closer.</h3>
-<img src='./leads_generator.png'/>
-
-
-# 6 - 🌐Expérience client
-<h3>Des Applications Customer Centric connectées en back office avec toutes les solutions utilisées.</h3>
-<img src='./exp_client.png'/>
-
